@@ -122,7 +122,7 @@
     </div>
 
     <div id="minimizedIcon">
-      <img src="${config.image}" alt="Consent Icon">
+      <img alt="Consent Icon">
     </div>
   `;
   document.body.insertAdjacentHTML('beforeend', bannerHtml);
